@@ -29,6 +29,7 @@ Questions are broken down into sections to make them easier to browse. Commentar
 - Are there morning stand-ups or check-ins to get the day rolling with the team?
 - Is there an expectation of being on-call? Are weekends actually weekends or are people working through them?
 - What time is work expected to happen? Can I work on my hours? How much overlap?
+- Are there regular 1:1 meetings with supervisors to discuss how things are going, challenges, and feedback?
 - How do new team members get brought up to speed?
 - What is the process for releasing new versions of the software?
 - Do the applications have multiple environments for testing before releasing to production?
