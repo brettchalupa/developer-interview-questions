@@ -107,7 +107,7 @@ Questions are broken down into sections to make them easier to browse. Commentar
 
 Contributions are welcome and encouraged. Let’s make this useful for as many people as possible. Please submit PRs and open issues on the repository to contribute.
 
-See CONTRIBUTING.md for specifics.
+See [CONTRIBUTING.md](https://github.com/brettchalupa/developer-interview-questions/blob/master/CONTRIBUTING.md) for specifics.
 
 ## Credits
 
@@ -119,4 +119,4 @@ Here are the folks that contributed to this resource:
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
 
-See LICENSE.md for specifics.
+See [LICENSE.md](https://github.com/brettchalupa/developer-interview-questions/blob/master/LICENSE.md) for specifics.
