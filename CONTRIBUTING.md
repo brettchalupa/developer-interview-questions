@@ -4,7 +4,7 @@
 
 The goal of this resource is to help interviewees ask better questions and interviewers provide better information. The questions aim to be inclusive and be appropriate regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
-What makes a good question is subjective, so be respective and communicative if people have questions. This resource absolutely does not tolerate insulting, demeaning or harassing behaving.
+What makes a good question is subjective, so be respective and communicative if people have questions. This resource absolutely does not tolerate insulting, demeaning, or harassing behavior.
 
 If you experience an issue, please email [brett@brettchalupa.com](mailto:brett@brettchalpa.com).
 
