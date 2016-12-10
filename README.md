@@ -92,9 +92,10 @@ Questions are broken down into sections to make them easier to browse. Commentar
 - What is the process of getting access to necessary information (logins, configurations, data)?
 - How are logins and sensitive information shared?
 
-### Open Source
+### Open Source & Side Projects
 
 - What are the policies for contributing to and using open source code?
+- What are the policies for personal projects, freelance work, and other jobs?
 - Does the team create and maintain any open source projects?
 
 ### Finances & Benefits
