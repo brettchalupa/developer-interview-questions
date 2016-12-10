@@ -49,12 +49,16 @@ Questions are broken down into sections to make them easier to browse. Commentar
 - Is there test coverage on any of the code?
     - If so, how much is the coverage?
     - What is the team’s approach and philosophy to automated testing?
+- Are continuous integration services used?
+    - Related: Is continuous deployment used?
+- Do the applications have multiple environments for testing before releasing to production?
 - How do new technologies get evaluated and decided upon?
 - Is version control being used?
     - If so, which?
     - Is source code hosted on a collaborative environment like GitHub or Bitbucket?
-- Do you all provide hardware to use? If so, what are the specs and operating system?
-    - If using Linux is important to you, be sure to ask.
+- Do you all provide hardware to use?
+    - If so, what are the specs and operating system?
+    - _If being able to use Linux is important to you, be sure to ask._
 
 ### Flow of Work
 
