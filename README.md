@@ -44,7 +44,7 @@ Questions are broken down into sections to make them easier to browse.
 
 ### Technology
 
-- What is programming language(s) are primarily used?
+- What programming languages are primarily used?
 - Is there test coverage on any of the code?
     - If so, how much is the coverage?
     - What is the team’s approach and philosophy to automated testing?
