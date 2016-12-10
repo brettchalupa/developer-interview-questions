@@ -101,6 +101,9 @@ Questions are broken down into sections to make them easier to browse. Commentar
 
 - What are the benefits?
 - How is time off approached?
+    - If the policy is unlimited time off, is there a minimum?
+        - If there is not a minimum, how do you all prevent people from not taking time off?
+        - _This is a really important question. There may be pressure (even just perceived) to not take time off since it is abstract._
 - If there is a 401k, is there a percentage match? If so, what is it?
 
 ## Contributing
