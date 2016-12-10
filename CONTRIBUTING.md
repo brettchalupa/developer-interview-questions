@@ -25,6 +25,7 @@ If you want to discuss a question or have feedback, [open a GitHub Issue on the 
 - Write the questions as full sentences, as one could potentially say out loud
 - Use non-gender specific language, like “they,” “y’all,” “you all”
 - Provide examples or more context below a question in a nested bulleted list
+- Use oxford commas where appropriate, e.g. oranges, apples, and papayas
 
 ## Translating
 
