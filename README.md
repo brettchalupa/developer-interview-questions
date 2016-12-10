@@ -55,6 +55,7 @@ Questions are broken down into sections to make them easier to browse. Commentar
 - Are continuous integration services used?
     - Related: Is continuous deployment used?
 - How do new technologies get evaluated and decided upon?
+- Can I use my editor of choice or is there an editor that must be used?
 - Is version control being used?
     - If so, which?
     - Is source code hosted on a collaborative environment like GitHub or Bitbucket?
