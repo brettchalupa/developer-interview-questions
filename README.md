@@ -8,7 +8,7 @@ _If you are the interviewer_: These questions can help you better explain more a
 
 ## Questions
 
-Questions are broken down into sections to make them easier to browse.
+Questions are broken down into sections to make them easier to browse. Commentary is provided as nested list items in _italics_. Additional information and follow-up questions are also nested list items.
 
 ### Collaboration
 
@@ -37,7 +37,8 @@ Questions are broken down into sections to make them easier to browse.
 - What is the organization’s approach to hiring a diverse team?
 - How does the organization deal with conflicts and issues?
 - How often does the organization do non-work things together and what are those activities?
-- What is the organization’s approach to drinking in the office? _If you don’t enjoy being around people drinking often and a lot, this is very good to know._
+- What is the organization’s approach to drinking in the office?
+    - _If you don’t enjoy being around people drinking often and a lot, this is very good to know._
 - Does the team document and share their findings and implementations to the rest of the team?
 - Does the team approach tasks as get it done as quickly as possible or take the needed time to get it done right?
   - For example, if someone has to get something done for a deadline, does it get done (but not cleanly) and then get forgotten about (thus becoming technical debt) or does it get updated and maintained?
