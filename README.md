@@ -30,6 +30,8 @@ Questions are broken down into sections to make them easier to browse. Commentar
 - Is there an expectation of being on-call? Are weekends actually weekends or are people working through them?
 - What time is work expected to happen? Can I work on my hours? How much overlap?
 - How do new team members get brought up to speed?
+- What is the process for releasing new versions of the software?
+- Do the applications have multiple environments for testing before releasing to production?
 
 ### Culture & Values
 
@@ -51,7 +53,6 @@ Questions are broken down into sections to make them easier to browse. Commentar
     - What is the team’s approach and philosophy to automated testing?
 - Are continuous integration services used?
     - Related: Is continuous deployment used?
-- Do the applications have multiple environments for testing before releasing to production?
 - How do new technologies get evaluated and decided upon?
 - Is version control being used?
     - If so, which?
