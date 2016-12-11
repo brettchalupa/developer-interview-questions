@@ -75,6 +75,8 @@ Questions are broken down into sections to make them easier to browse. Commentar
 ### Education & Personal Growth
 
 - What does the organization do to help employees grow and be their best?
+- What career progression is there and how does it work?
+- Is there support for switching to other roles within the team and organization?
 - Is there a budget for books, screencasts, and other educational materials?
 - Is there budget for attending conferences at conferences and workshops?
 - Is there 10% time for community, open source, and experimenting with technologies?
@@ -101,6 +103,7 @@ Questions are broken down into sections to make them easier to browse. Commentar
 
 ### Finances & Benefits
 
+- When and why do employees get raises?
 - What are the benefits?
 - How is time off approached?
     - If the policy is unlimited time off, is there a minimum?
